@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Hayasaka",
-    "description": "Music streaming and downloading platform.",
-    "short_name": "Hayasaka",
+    "name": "Naa Music by NITIN",
+    "description": "My Personal Music Streaming.",
+    "short_name": "Naa Music",
     "icons": [
         {
             "src": "/icon-192x192.png",
